@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Phantonym21
+- 👋 Hi, I’m @Phantonym21, ECE Undergrad student at Mumbai University
 - 👀 I’m interested in learning more about this open source platform. Got here through GSOC.
 - 🌱 I’m currently learning DSA in java/python.
-- 💞️ I’m looking to do basic projects since im a beginner here.
+- 💞️ I’m looking to work on Software and Web Development Projects.
  
 
 <!---
