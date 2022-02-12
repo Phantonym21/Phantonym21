@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantonym21&label=Profile%20views&color=0e75b6&style=flat" alt="phantonym21" /> </p>
 
-- 🔭 I’m currently working on **E-yantra project related to ROS**
+- 🔭 I’m currently working on ** Fusion 360 for creating CAD models for Robocon 2022**
 
-- 🌱 I’m currently learning **React/**
+- 🌱 I’m currently learning **Machine Learning ** and improving on my **Competitive Programming Skills**
 
-- 👯 I’m looking to collaborate on **ML/AI/Data Science as well as React Projects**
+- 👯 I’m looking to collaborate on **ML/AI/Data Science**
 
 - 📫 How to reach me **avishkardige2001@gmail.com**
 
