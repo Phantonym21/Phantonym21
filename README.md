@@ -24,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantonym21&show_icons=true&locale=en&layout=compact" alt="phantonym21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantonym21&" alt="phantonym21" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phantonym21)](https://git.io/streak-stats)
 
