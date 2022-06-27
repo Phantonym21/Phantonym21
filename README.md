@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantonym21&label=Profile%20views&color=0e75b6&style=flat" alt="phantonym21" /> </p>
 
-- 🔭 I’m currently working on **Fusion 360 for creating CAD models for Robocon 2022**
+#- 🔭 I’m currently working with Opencv on **Fusion 360 for creating CAD models for Robocon 2022**
 
 - 🌱 I’m currently learning **Machine Learning** and improving on my **Competitive Programming Skills**
 
