@@ -6,6 +6,7 @@
 [//]: <> (- 🔭 I’m currently working with Opencv on **Fusion 360 for creating CAD models for Robocon 2022**)
 
 - 🌱 I’m currently learning improving on my **Competitive Programming Skills and DSA**
+- 🌱 I’m also engaged in a course of **Blockchain Development** of Fynd Academy
 
 - 👯 I’m looking to collaborate on **ML/AI/Data Science and Software Development**
 
