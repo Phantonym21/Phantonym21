@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantonym21&label=Profile%20views&color=ff1c21&style=plastic" alt="phantonym21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phantonym21" alt="phantonym21" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain Development through a course of Fynd Academy**
 
 - 👯 I’m looking to collaborate on **Web Development(MERN) as well as Blockchain Development(Solidity)**
@@ -24,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phantonym21&show_icons=true&theme=dark&locale=en" alt="phantonym21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantonym21&" alt="phantonym21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantonym21&theme=dark" alt="phantonym21" /></p>
 
