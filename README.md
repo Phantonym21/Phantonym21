@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantonym21&label=Profile%20views&color=ff1c21&style=plastic" alt="phantonym21" /> </p>
 
-- 🌱 I’m currently learning **Blockchain Development through a course of Fynd Academy**
+- 🌱 I’m currently learning **Python Web Development With Django through a course on Youtube**
 
 - 👯 I’m looking to collaborate on **Web Development(MERN) as well as Blockchain Development(Solidity)**
 
