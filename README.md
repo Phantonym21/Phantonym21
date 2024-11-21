@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantonym21&label=Profile%20views&color=ff1c21&style=plastic" alt="phantonym21" /> </p>
 
-- 🌱 I’m currently learning **Python Web Development With Django through a course on Youtube**
+- 🌱 I’m currently working in TCS as a **Python Backend Developer**
 
-- 👯 I’m looking to collaborate on **Web Development(MERN) as well as Blockchain Development(Solidity)**
+- 👯 I’m learning and developing **micro-services based applications through AWS Cloud **
 
 - 📫 How to reach me **avishkardige2001@gmail.com**
 
